@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,7 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# letchat
-LetChat is an open source project that I created to help people at University of Livingstonia to easily chat communicate and share new ideas as well as information on the campus.
->>>>>>> 9d66335e72d9152c00dec3bf8c0c0a064fdb49ec
